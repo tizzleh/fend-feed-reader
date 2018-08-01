@@ -1,0 +1,19 @@
+{
+  "name": "fend-feed-reader",
+  "version": "1.0.0",
+  "description": "Udacity feed reader requirement",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tizzleh/fend-feed-reader.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tizzleh/fend-feed-reader/issues"
+  },
+  "homepage": "https://github.com/tizzleh/fend-feed-reader#readme"
+}
