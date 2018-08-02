@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/tizzleh/fend-feed-reader/issues"
   },
-  "homepage": "https://github.com/tizzleh/fend-feed-reader#readme"
+  "homepage": "https://github.com/tizzleh/fend-feed-reader#readme",
+  "dependencies": {
+    "gulp-jasmine": "^4.0.0"
+  }
 }
