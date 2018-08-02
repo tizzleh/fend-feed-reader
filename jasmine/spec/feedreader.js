@@ -1,5 +1,5 @@
 $(function() {
-  describe('RSS Feeds', function() {
+  describe('RSS Feeds', function() { // 'parent' suite
 
     it('are defined.', function() {
       expect(allFeeds).toBeDefined(); // Ensure feeds is defined
@@ -29,7 +29,7 @@ $(function() {
     });
 
     it('visibility changes when menu icon clicked.', function() { // Click on menu to make sure class applied
-      const checkVis = $('.menu-icon-link');
+      const checkVis = $('.menu-icon-link'); // Menu icon element
       checkVis.click(); // Click on element
       expect($('body').hasClass('menu-hidden')).toBe(false); // Check class
       checkVis.click(); // Click on element
@@ -40,7 +40,7 @@ $(function() {
 
   describe('Initial Entries', function() { // Suite for 'Initial Entries'
 
-    beforeEach(function(e) { // Call loadFeed()
+    beforeEach(function(e) { // Call loadFeed before each in suite
       loadFeed(0, e);
     })
 
@@ -51,7 +51,7 @@ $(function() {
     })
   })
 
-  describe('New Feed Selection', function() {
+  describe('New Feed Selection', function() { // Suite for the new feed section
     let currentURL, nextURL; // Define vars
 
     beforeEach(function(e) {
