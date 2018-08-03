@@ -3,7 +3,7 @@
 This project is part of a Udacity course. The premise of the project was to incorporate testing suites in a project that I was handed from a previous developer.
 
 ## Getting Started
-Visit the following link to view tests: [FEND Feed Reader](httpss://tizzleh.github.io/fend-feed-reader/)
+Visit the following link to view tests: [FEND Feed Reader](https://tizzleh.github.io/fend-feed-reader/)
 
 Or, you can install the test locally by following the directions below
 
@@ -12,7 +12,7 @@ Or, you can install the test locally by following the directions below
 Clone the repository to your local machine
 
 ```
-git clone httpss://github.com/tizzleh/fend-feed-reader.git
+git clone https://github.com/tizzleh/fend-feed-reader.git
 ```
 Open the folder and visit index.html in your browser to view tests and feed.
 
@@ -22,9 +22,8 @@ A gulpfile is included but not needed, simply visit index.html in your browser t
 
 
 ## Built With
-* [jQuery](httpss://github.com/jquery/jquery) - Used to make life easier
-* [bootsrap](httpss://github.com/twbs/bootstrap) - CSS/HTML framework
-* [jasmine](httpss://github.com/jasmine/jasmine) - JavaScript testing library
+* [jQuery](https://github.com/jquery/jquery) - Used to make life easier
+* [jasmine](https://github.com/jasmine/jasmine) - JavaScript testing library
 
 ## Contributing
 
@@ -32,8 +31,8 @@ This project is a requirement for a Udacity course, no contributions will be acc
 
 ## Authors
 
-* **Udacity** - *Initial work* - [Udacity](httpss://github.com/udacity)
-* **Ty Harlacker** - *JavaScript* - [tizzleh](httpss://github.com/tizzleh)
+* **Udacity** - *Initial work* - [Udacity](https://github.com/udacity)
+* **Ty Harlacker** - *JavaScript* - [tizzleh](https://github.com/tizzleh)
 
 ## License
 
