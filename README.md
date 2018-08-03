@@ -24,7 +24,7 @@ A gulpfile is included but not needed, simply visit index.html in your browser t
 ## Built With
 * [jQuery](https://github.com/jquery/jquery) - Used to make life easier
 * [bootsrap](https://github.com/twbs/bootstrap) - CSS/HTML framework
-* [jasmine](https://github.com/twbs/jasmine) - JavaScript testing library
+* [jasmine](https://github.com/jasmine/jasmine) - JavaScript testing library
 
 ## Contributing
 
