@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/tizzleh/fend-feed-reader.git"
+    "url": "git+httpss://github.com/tizzleh/fend-feed-reader.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/tizzleh/fend-feed-reader/issues"
+    "url": "httpss://github.com/tizzleh/fend-feed-reader/issues"
   },
-  "homepage": "https://github.com/tizzleh/fend-feed-reader#readme",
+  "homepage": "httpss://github.com/tizzleh/fend-feed-reader#readme",
   "dependencies": {},
   "devDependencies": {
     "gulp-jasmine": "^4.0.0",
