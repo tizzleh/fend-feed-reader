@@ -3,20 +3,11 @@
 This project is part of a Udacity course. The premise of the project was to incorporate testing suites in a project that I was handed from a previous developer.
 
 ## Getting Started
+Visit the following link to view tests: [FEND Feed Reader](https://tizzleh.github.io/FEND-classic-frogger/)
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
-
-### Prerequisites
-
-What things you need to install the software and how to install them
-
-```
-Give examples
-```
+Or, you can install the test locally by following the directions below
 
 ### Installing
-
-A step by step series of examples that tell you how to get a development env running
 
 Clone the repository to your local machine
 
@@ -25,55 +16,26 @@ git clone https://github.com/tizzleh/fend-feed-reader.git
 ```
 Open the folder and visit index.html in your browser to view tests and feed.
 
-```
-until finished
-```
-
-End with an example of getting some data out of the system or using it for a little demo
 
 ## Running the tests
-
-Explain how to run the automated tests for this system
+A gulpfile is included but is not needed. Simply visit index.html in your browser to run tests.
 
 ### Break down into end to end tests
 
-Explain what these tests test and why
-
-```
-Give an example
-```
-
-### And coding style tests
-
-Explain what these tests test and why
-
-```
-Give an example
-```
-
-## Deployment
-
-Add additional notes about how to deploy this on a live system
 
 ## Built With
-
-* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
-* [Maven](https://maven.apache.org/) - Dependency Management
-* [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
+* [jQuery](https://github.com/jquery/jquery) - Used to make life easier
+* [bootsrap](https://github.com/twbs/bootstrap) - CSS/HTML framework
+* [jasmine](https://github.com/twbs/jasmine) - JavaScript testing library
 
 ## Contributing
 
-Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) for details on our code of conduct, and the process for submitting pull requests to us.
-
-## Versioning
-
-We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/your/project/tags).
+This project is a requirement for a Udacity course, no contributions will be accepted.
 
 ## Authors
 
-* **Billie Thompson** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
-
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
+* **Udacity** - *Initial work* - [Udacity](https://github.com/udacity)
+* **Ty Harlacker** - *JavaScript* - [tizzleh](https://github.com/tizzleh)
 
 ## License
 
@@ -81,6 +43,6 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 ## Acknowledgments
 
-* Hat tip to anyone whose code was used
-* Inspiration
-* etc
+* Udacity
+* My parents
+* My project mentor for not letting me stress about deadlines.
