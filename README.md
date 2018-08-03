@@ -3,7 +3,7 @@
 This project is part of a Udacity course. The premise of the project was to incorporate testing suites in a project that I was handed from a previous developer.
 
 ## Getting Started
-Visit the following link to view tests: [FEND Feed Reader](https://tizzleh.github.io/FEND-classic-frogger/)
+Visit the following link to view tests: [FEND Feed Reader](https://tizzleh.github.io/fend-feed-reader/)
 
 Or, you can install the test locally by following the directions below
 
