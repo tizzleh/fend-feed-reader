@@ -18,9 +18,7 @@ Open the folder and visit index.html in your browser to view tests and feed.
 
 
 ## Running the tests
-A gulpfile is included but is not needed. Simply visit index.html in your browser to run tests.
-
-### Break down into end to end tests
+A gulpfile is included but not needed, simply visit index.html in your browser to run tests.
 
 
 ## Built With
